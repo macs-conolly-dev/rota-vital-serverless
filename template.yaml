@@ -4,7 +4,7 @@ Description: Guia de transporte do Rota Vital (atividade serverless)
 
 Globals:
   Function:
-    Timeout: 10
+    Timeout: 3
 
 Resources:
   GuiaFunction:
